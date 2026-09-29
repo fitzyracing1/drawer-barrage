@@ -1,2 +1,5 @@
 # drawer-barrage
-Barrage plain-language clone of fitzyracing1/drawer
+
+Barrage clone of [fitzyracing1/drawer](https://github.com/fitzyracing1/drawer).
+
+Read [listing.barrage](listing.barrage).
